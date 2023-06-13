@@ -1,0 +1,139 @@
+```
+# Visual Studio / Visual Studio Code
+.vs/
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.log
+*.bak
+*.vspscc
+*_i.c
+*_p.c
+*.pidb
+*.ipdb
+*.resharper*
+*.[Oo]bj
+*.[Ll]og
+*.tlog
+*.cache
+*.dll
+*.exe
+*.pdb
+*.docstates
+*.dotCover
+*.ncrunch*
+*.dotsettings.user
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# User-specific files
+*.userprefs
+*.sln.docstates
+
+# Visual Studio Code specific
+.vscode/
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Resharper specific
+_ReSharper.*
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# StyleCop
+StyleCopReport.xml
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Unity
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Bb]uild[Bb]uild/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Bb]uilds.xml
+*.unityproj
+*.userprefs
+*.csproj
+*.pidb.meta
+
+# Xamarin
+*.iOS/
+*.Mac/
+*.Android/
+*.WindowsPhone/
+*.vspx
+*.vsp
+*.orig
+*.template
+*.apk
+*.pdb
+*.opendb
+*.dll
+*.exe
+*.msi
+*.ipa
+*.dmg
+*.app
+*.appex
+*.dylib
+*.dll.a
+*.so
+*.zip
+*.nupkg
+*.p12
+*.mobileprovision
+*.ipa/
+*.dSYM.zip
+*.dSYM
+
+# Miscellaneous
+*.[Cc]ache
+*.log
+*.dll.errors
+*.idea/
+*.[Ss]ettings
+ClientBin/
+[Tt]est[Rr]esult*
+*.swp
+*.idb
+```
